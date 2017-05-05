@@ -1,0 +1,1 @@
+Update provinces Set name = REPLACE(name,' ','')
